@@ -41,6 +41,3 @@ text_path = r"C:\Users\You\Desktop\test\extracted_pdf.txt"
 Extracts text → saves to `extracted_pdf.txt`.
 
 ---
-
-
-Would you like me to make it more **aesthetic for GitHub (with emojis, headings, and code formatting)** or keep it minimal for technical documentation style?
